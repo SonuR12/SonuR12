@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer and Computer
 
 ## 📫 Connect With Me
 
-- 📧 Email: [sonurai272004@gmail.com](mailto:sonurai272004@gmail.com)
+- 📧 Email: [sonukumar9905757@gmail.com](mailto:sonukumar9905757@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/sonurai272004](https://linkedin.com/in/sonurai272004)
 - 💻 GitHub: [@SonuR12](https://github.com/SonuR12)
 - 🌐 Website: [https://sonu.dev](https://sonu.dev)
