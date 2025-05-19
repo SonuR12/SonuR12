@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer and Computer
 
 ## 💼 About Me
 
-- 🎓 Currently pursuing B.Tech in CSE from ADGIPS (GGSIPU)
+- 🎓 Currently pursuing B.Tech in CSE from (GGSIPU)
 - 💻 I specialize in **JavaScript**, **TypeScript**, **React**, **Next.js**, **Flutter**, **Node.js**, **MongoDB**, and **MySQL**
 - 🚀 Focused on building user-friendly, accessible, and performant products
 - 🔐 Interested in Auth systems (Clerk, Firebase, JWT) and cloud integrations (GCP, Vercel)
@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer and Computer
 ## 📫 Connect With Me
 
 - 📧 Email: [sonukumar9905757@gmail.com](mailto:sonukumar9905757@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/sonurai272004](https://linkedin.com/in/sonurai272004)
+- 💼 LinkedIn: [linkedin.com/in/sonu-rai-r12](https://www.linkedin.com/in/sonu-rai-r12/)
 - 💻 GitHub: [@SonuR12](https://github.com/SonuR12)
 - 🌐 Website: [https://sonu.dev](https://sonu-portfolio-mu.vercel.app)
 
