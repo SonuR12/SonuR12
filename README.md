@@ -56,11 +56,11 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** and **Co
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SonuR12&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SonuR12&theme=tokyonight" alt="GitHub Streak" height="165"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonuR12&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
-<p align="">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonuR12&layout=compact&theme=tokyonight" alt="Top Languages"/>
+<p align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SonuR12&theme=tokyonight" alt="GitHub Streak" height="165"/>
 </p>
 
 ---
