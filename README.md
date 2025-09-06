@@ -54,14 +54,14 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** and **Co
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SonuR12&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonuR12&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=SonuR12&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" class="mx-auto"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonuR12&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" class="mx-auto"/>
+</div>
 
-<p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SonuR12&theme=tokyonight" alt="GitHub Streak" height="165"/>
-</p>
+<div style="margin-top: 20px; display: flex; justify-content: center;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SonuR12&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" class="mx-auto"/>
+</div>
 
 ---
 
