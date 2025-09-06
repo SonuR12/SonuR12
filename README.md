@@ -52,16 +52,19 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** and **Co
 
 ---
 
+
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SonuR12&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SonuR12&theme=tokyonight" alt="GitHub Streak" height="165"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SonuR12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&height=180)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SonuR12&theme=tokyonight&hide_border=true&height=180)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonuR12&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SonuR12&layout=compact&theme=tokyonight&hide_border=true&height=180)
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SonuR12&theme=tokyo-night&hide_border=true)
+
+<!-- 🐍 Snake animation -->
+![Snake animation](https://github.com/SonuR12/SonuR12/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
