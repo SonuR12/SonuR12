@@ -7,11 +7,11 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** and **Co
 ## 💼 About Me
 
 - 🎓 B.Tech in **Computer Science Engineering** from **GGSIPU**
-- 💻 I specialize in **JavaScript**, **TypeScript**, **React**, **Next.js**, **Flutter**, **Node.js**, **MongoDB**, and **MySQL**
+- 💻 Skilled in **JavaScript**, **TypeScript**, **React**, **Next.js**, **Flutter**, **Node.js**, **MongoDB**, and **MySQL**
 - 🌱 Currently exploring **AI integrations**, **Web3**, and **microservices architecture**
-- 🔐 Strong interest in **authentication systems** (Clerk, Firebase, NextAuth, JWT) and **cloud platforms** (Vercel, GCP, AWS basics)
+- 🔐 Enthusiastic about **authentication systems** (Clerk, Firebase, NextAuth, JWT) and **cloud platforms** (Vercel, GCP, AWS basics)
 - 🎨 Passionate about **UI/UX design**, performance optimization, and accessibility
-- 📈 Always focused on writing clean, maintainable, and scalable code
+- 📈 Focused on writing clean, maintainable, and scalable code
 
 ---
 
@@ -44,36 +44,35 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** and **Co
 
 ## 🎯 Goals & Vision
 
-- 🚀 Build production-ready apps that solve **real-world problems**
-- 🌍 Contribute more to **open-source projects**
-- 🧩 Explore **system design** and **distributed systems**
-- 🤝 Collaborate with developers, startups, and communities
-- 📚 Keep upskilling in **AI, Cloud, and Web3**
+- 🚀 Deliver **production-ready applications** that solve real-world challenges  
+- 🌍 Contribute actively to **open-source communities**  
+- 🧩 Master **system design** and **distributed systems**  
+- 🤝 Collaborate with **developers, startups, and communities**  
+- 📚 Keep upskilling in **AI, Cloud, and Web3**  
 
 ---
 
-
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SonuR12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&height=180)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SonuR12&theme=tokyonight&hide_border=true&height=180)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SonuR12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SonuR12&theme=tokyonight&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SonuR12&layout=compact&theme=tokyonight&hide_border=true)  
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SonuR12&theme=tokyo-night&hide_border=true&area=true)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SonuR12&layout=compact&theme=tokyonight&hide_border=true&height=180)
+---
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SonuR12&theme=tokyo-night&hide_border=true)
+## 🏆 Achievements
 
-<!-- 🐍 Snake animation -->
-![Snake animation](https://github.com/SonuR12/SonuR12/blob/output/github-contribution-grid-snake.svg)
-
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SonuR12&theme=tokyonight&no-frame=true&row=1&column=6)
 
 ---
 
 ## 📫 Connect With Me
 
-- 📧 Email: [sonukumar9905757@gmail.com](mailto:sonukumar9905757@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/sonu-rai-r12](https://www.linkedin.com/in/sonu-rai-r12/)
-- 💻 GitHub: [@SonuR12](https://github.com/SonuR12)
-- 🌐 Website: [sonu.dev](https://sonu-portfolio-mu.vercel.app)
+- 📧 Email: [sonukumar9905757@gmail.com](mailto:sonukumar9905757@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/sonu-rai-r12](https://www.linkedin.com/in/sonu-rai-r12/)  
+- 💻 GitHub: [@SonuR12](https://github.com/SonuR12)  
+- 🌐 Website: [sonu.dev](https://sonu-portfolio-mu.vercel.app)  
 
 ---
 
