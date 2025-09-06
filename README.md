@@ -59,7 +59,7 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** and **Co
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SonuR12&theme=tokyonight" alt="GitHub Streak" height="165"/>
 </p>
 
-<p align="center">
+<p align="">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonuR12&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
