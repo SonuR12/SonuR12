@@ -7,55 +7,65 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** and **Co
 ## 💼 About Me
 
 - 🎓 B.Tech in **Computer Science Engineering** from **GGSIPU**
-- 💻 I specialize in **JavaScript**, **TypeScript**, **React**, **Next.js**, **Flutter**, **Node.js**, **MongoDB**, and **MySQL**
-- 🌱 Currently exploring **AI integrations**, **Web3**, and **microservices architecture**
-- 🔐 Strong interest in **authentication systems** (Clerk, Firebase, NextAuth, JWT) and **cloud platforms** (Vercel, GCP, AWS basics)
-- 🎨 Passionate about **UI/UX design**, performance optimization, and accessibility
-- 📈 Always focused on writing clean, maintainable, and scalable code
+- 💻 Full-stack developer who builds, deploys, and maintains **production-grade applications**
+- ⚙️ End-to-end ownership: **Frontend → Backend → DevOps → Hosting**
+- 🌱 Exploring **AI integrations**, **Web3**, and **microservices architecture**
+- 🔐 Strong focus on **authentication, security & performance**
+- ☁️ Cloud & hosting experience: **Vercel, Hostinger KVM, PM2, NGINX, AWS basics**
+- 🚀 Creator of **FutureOfGadgets.in**
+- 🎨 Passionate about UI/UX, accessibility & clean architecture
 
 ---
 
-## 📸  Screenshot
+## 📸 Screenshot
 
 ![Github](https://github.com/SonuR12/SonuR12/blob/main/Sonu_Github.png)
 
 ---
 
-
 ## 🧠 Tech Stack
 
+### 🚀 Core Development
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextdotjs)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss)
+![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
+
+### 🛠 Backend & Database
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
+### ☁️ DevOps & Hosting
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
+![Nginx](https://img.shields.io/badge/-Nginx-black?style=flat-square&logo=nginx)
+![PM2](https://img.shields.io/badge/-PM2-black?style=flat-square&logo=pm2)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)
 
 ---
 
 ## 🔥 Featured Projects
 
+- 🛍️ **FutureOfGadgets.in** — eCommerce platform with admin panel, SEO, and VPS hosting *(Next.js, PM2, Cloudflare DNS, MongoDB)*
 - 🧠 **AI Mentor Assistant** — Personalized AI guidance platform *(Next.js, MongoDB, Gemini API, ShadCN UI)*
-- 🛍️ **Maharani E-Commerce** — Full e-commerce app with admin panel, cart, payments, and secure authentication
-- 🌐 **Sonu.Dev** — My developer portfolio with resume download, projects showcase, and contact form
-- 📊 **Dashboard Pro** — Admin dashboard with charts, authentication, and API integrations
-- 💬 **Chatify** — Real-time chat app with WebSockets and JWT authentication
+- 🛍️ **Maharani E-Commerce** — Cart, payments, secure auth, full admin controls
+- 🌐 **Sonu.Dev** — Portfolio with resume, project showcase & contact form
+- 📊 **Dashboard Pro** — Secure admin dashboard with charts & API integrations
+- 💬 **Chatify** — Real-time chat application with WebSockets & JWT
 
 ---
 
 ## 🎯 Goals & Vision
 
-- 🚀 Build production-ready apps that solve **real-world problems**
-- 🌍 Contribute more to **open-source projects**
-- 🧩 Explore **system design** and **distributed systems**
-- 🤝 Collaborate with developers, startups, and communities
-- 📚 Keep upskilling in **AI, Cloud, and Web3**
+- 🏗 Deliver fully deployed applications used by real users
+- 🚀 Improve my DevOps, CI/CD & distributed systems skills
+- 🌍 Contribute to open-source & collaborate with global devs
+- 🤖 Build AI-powered products for meaningful impact
 
 ---
 
@@ -77,9 +87,9 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** and **Co
 - 📧 Email: [sonukumar9905757@gmail.com](mailto:sonukumar9905757@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/sonu-rai-r12](https://www.linkedin.com/in/sonu-rai-r12/)
 - 💻 GitHub: [@SonuR12](https://github.com/SonuR12)
-- 🌐 Website: [sonu.dev](https://sonu-portfolio-mu.vercel.app)
+- 🌐 Portfolio: [sonu.dev](https://portfolio-sonu-rai.vercel.app)
+- 🛍️ Store: [futureofgadgets.in](https://futureofgadgets.in/)
 
 ---
 
 > ✨ “Build fast, fail fast, learn faster.” — My development mantra 🚀
-
