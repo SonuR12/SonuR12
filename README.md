@@ -2,18 +2,19 @@
 
 **Full Stack Developer | Computer Science Engineer | Product-focused Builder**
 
-I build **production-grade web applications** with clean UI, scalable backends, and reliable deployments. I enjoy owning the full lifecycle — from idea to hosting — and shipping software that real users depend on.
+I build **production-grade web applications** with clean UI, scalable backends, and reliable deployments.  
+I enjoy owning the **entire product lifecycle** — from idea → development → deployment → real users.
 
 ---
 
 ## 💼 About Me
 
-- 🎓 B.Tech in **Computer Science Engineering** — **GGSIPU**
+- 🎓 **B.Tech – Computer Science Engineering** (GGSIPU)
 - 💻 Full-stack developer (Frontend → Backend → DevOps → Hosting)
 - 🚀 Founder & builder of **FutureOfGadgets.in**
 - ⚙️ Strong focus on **performance, security, SEO & scalability**
 - ☁️ Deployment experience: **Vercel, Hostinger KVM, PM2, NGINX, Cloudflare**
-- 🌱 Exploring **AI integrations, Web3 & microservices**
+- 🌱 Exploring **AI integrations, Web3 & Microservices**
 - 🎨 Passionate about **UI/UX, accessibility & clean architecture**
 
 ---
@@ -21,75 +22,105 @@ I build **production-grade web applications** with clean UI, scalable backends, 
 ## 🧠 Tech Stack
 
 ### 🚀 Frontend
-- **JavaScript / TypeScript**
-- **React, Next.js (App Router)**
-- **Tailwind CSS, ShadCN UI**
-- **Flutter (Basics)**
+- JavaScript / TypeScript  
+- React, **Next.js (App Router)**  
+- Tailwind CSS, **ShadCN UI**  
+- Flutter (Basics)
 
 ### 🛠 Backend & Databases
-- **Node.js, Express.js**
-- **MongoDB, MySQL**
-- **Prisma ORM**
-- **REST APIs, Auth (JWT, Sessions)**
+- Node.js, Express.js  
+- MongoDB, MySQL  
+- **Prisma ORM**  
+- REST APIs, Authentication (JWT, Sessions)
 
 ### ☁️ DevOps & Infrastructure
-- **Vercel (CI/CD)**
-- **Linux VPS (Hostinger KVM)**
-- **PM2, NGINX**
-- **Docker (Basics)**
-- **AWS (Fundamentals)**
+- Vercel (CI/CD)  
+- Linux VPS (Hostinger KVM)  
+- PM2, NGINX  
+- Docker (Basics)  
+- AWS (Fundamentals)
 
 ---
 
 ## 🔥 Featured Projects
 
 ### 🛍️ FutureOfGadgets.in
-**Production eCommerce platform** with admin panel, SEO optimization, and VPS deployment  
-**Tech:** Next.js, MongoDB, PM2, NGINX, Cloudflare DNS  
-**Highlights:** Admin dashboard, product management, SEO, performance optimization
+**Production-ready eCommerce platform** with admin panel and VPS deployment  
+**Tech:** Next.js, MongoDB, PM2, NGINX, Cloudflare  
+**Key Highlights:**
+- Admin dashboard with full product control
+- SEO optimization & performance tuning
+- Secure deployment on Linux VPS
+- Real users & live traffic
+
+🔗 https://futureofgadgets.in
+
+---
 
 ### 🧠 AI Mentor Assistant
-Personalized AI guidance platform  
+**AI-powered personalized mentoring platform**  
 **Tech:** Next.js, MongoDB, Gemini API, ShadCN UI  
-**Highlights:** AI-powered mentoring, clean UI, scalable backend
+**Key Highlights:**
+- Context-aware AI guidance
+- Clean, accessible UI
+- Scalable backend architecture
+
+---
 
 ### 🛍️ Maharani E-Commerce
 Secure eCommerce solution with full admin control  
-**Highlights:** Cart, payments, authentication, role-based access
+**Highlights:**
+- Cart & checkout flow
+- Authentication & role-based access
+- Admin management panel
+
+---
 
 ### 📊 Dashboard Pro
 Admin dashboard with charts & API integrations  
-**Highlights:** Secure auth, analytics, CRUD operations
+**Highlights:**
+- Secure authentication
+- Analytics & data visualization
+- CRUD operations with clean UI
+
+---
 
 ### 💬 Chatify
 Real-time chat application  
-**Tech:** WebSockets, JWT authentication
+**Tech:** WebSockets, JWT  
+**Highlights:**
+- Live messaging
+- Secure auth
+- Scalable real-time architecture
 
 ---
 
-## 🎯 Goals & Vision
+## 🧩 What I’m Good At (Beyond Code)
 
-- 🚀 Build products used by **real users at scale**
-- 🏗 Strengthen **DevOps, CI/CD & system design** skills
-- 🤝 Contribute to **open source** and collaborate globally
-- 🤖 Create **AI-powered tools** with real-world impact
+- 🧠 **System thinking & clean architecture**
+- ⚡ Performance optimization (Core Web Vitals)
+- 🔐 Security-first mindset
+- 🛠 Debugging production issues
+- 📦 Shipping complete, usable products
+- 📈 SEO & real-world deployment challenges
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Current Focus
 
-> ⚠️ GitHub stats widgets can be unreliable due to API / deployment limits.  
-> To keep this profile fast and clean, stats are optional.
+- Building **AI-powered real-world products**
+- Strengthening **DevOps & CI/CD pipelines**
+- Learning **system design & scalable backend patterns**
+- Preparing for **high-impact software engineering roles**
 
+---
 
+## 🤝 Open To
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SonuR12&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SonuR12&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SonuR12&theme=tokyonight&hide_border=true)
-
--->
+- Full-time / Internship opportunities
+- Freelance & startup collaborations
+- Open-source contributions
+- Product-focused engineering roles
 
 ---
 
