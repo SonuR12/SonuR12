@@ -130,7 +130,6 @@ Real-time chat application
 - 💼 LinkedIn: https://www.linkedin.com/in/sonu-rai-r12/
 - 💻 GitHub: https://github.com/SonuR12
 - 🌐 Portfolio: https://portfolio-sonu-rai.vercel.app
-- 🛍️ Store: https://futureofgadgets.in
 
 ---
 
