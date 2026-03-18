@@ -11,7 +11,7 @@ I enjoy owning the **entire product lifecycle** — from idea → development �
 
 - 🎓 **B.Tech – Computer Science Engineering** (GGSIPU)
 - 💻 Full-stack developer (Frontend → Backend → DevOps → Hosting)
-- 🚀 Founder & builder of **FutureOfGadgets.in**
+- 🚀 Builded **FutureOfGadgets.in**
 - ⚙️ Strong focus on **performance, security, SEO & scalability**
 - ☁️ Deployment experience: **Vercel, Hostinger KVM, PM2, NGINX, Cloudflare**
 - 🌱 Exploring **AI integrations, Web3 & Microservices**
