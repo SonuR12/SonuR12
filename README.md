@@ -169,7 +169,7 @@ public class SonuRai extends Developer {
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
 
