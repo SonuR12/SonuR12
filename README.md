@@ -13,19 +13,17 @@
 
 ---
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=SonuR12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" />
-
-### 👋 About Me
+## 👋 About Me
 
 ```java
 public class SonuRai extends Developer {
 
-    String degree   = "B.Tech CSE @ GGSIPU";
-    String[] core   = {"Java", "DSA", "OOP", "System Design"};
-    String[] web    = {"Next.js", "React", "Node.js", "MongoDB"};
-    String[] ai     = {"OpenAI API", "Gemini API"};
-    String[] devops = {"Vercel", "Linux VPS", "NGINX", "PM2"};
-    String[] open   = {"Full-time", "Internship", "Freelance"};
+    String degree    = "B.Tech CSE @ GGSIPU";
+    String[] core    = { "Java", "DSA", "OOP", "System Design" };
+    String[] web     = { "Next.js", "React", "Node.js", "MongoDB" };
+    String[] ai      = { "OpenAI API", "Gemini API" };
+    String[] devops  = { "Vercel", "Linux VPS", "NGINX", "PM2" };
+    String[] open_to = { "Full-time", "Internship", "Freelance" };
 
     @Override
     public String toString() {
@@ -38,8 +36,6 @@ public class SonuRai extends Developer {
 - 🚀 Ships **complete products** — idea → code → deploy → users
 - 🤖 Built AI-powered apps with **OpenAI & Gemini** in production
 - ⚙️ Real infra experience — **VPS, NGINX, PM2**, not just Vercel clicks
-
-<br clear="right"/>
 
 ---
 
@@ -68,7 +64,7 @@ public class SonuRai extends Developer {
 
 ## 🔥 Flagship Projects
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -132,19 +128,35 @@ public class SonuRai extends Developer {
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 TechSphere
+**[Code](https://github.com/SonuR12/tech-sphere)**
+
+> Web3 & AI discovery portal
+
+- 🌀 Immersive Three.js 3D experiences
+- ⚡ Real-time Gemini AI insights
+
+`Next.js` `Three.js` `Gemini API`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 Artistly
+**[Code](https://github.com/SonuR12/Eventful_Assign)**
+
+> Event × Performer marketplace
+
+- 🎤 Book singers, DJs, dancers, speakers
+- 📋 Artist onboarding & booking management
+
+`Next.js` `TypeScript` `Tailwind CSS`
+
+</td>
+</tr>
 </table>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonuR12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=8" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=SonuR12&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" />
-
-</div>
 
 ---
 
@@ -154,6 +166,22 @@ public class SonuRai extends Developer {
 - 🤖 Building **AI-powered SaaS** products
 - ⚙️ Deepening **CI/CD, DevOps & scalable backend patterns**
 - 📖 Preparing for **high-impact software engineering roles**
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SonuR12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" />
+&nbsp;&nbsp;
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=SonuR12&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" />
+
+<br/><br/>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonuR12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=8" />
+
+</div>
 
 ---
 
