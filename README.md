@@ -194,5 +194,15 @@ public class SonuRai extends Developer {
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer" width="100%"/>
+
+---
+
+### Let's Build Something Great Together
+
+[![Portfolio](https://img.shields.io/badge/View%20My%20Work-6366f1?style=for-the-badge)](https://portfolio-sonu-rai.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonu-rai-r12/)
+[![Email](https://img.shields.io/badge/Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonukumar9905757@gmail.com)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=SonuR12&style=flat-square&color=6366f1&label=Profile+Views)
+
 </div>
