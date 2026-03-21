@@ -173,18 +173,18 @@ public class SonuRai extends Developer {
 
 <div align="center">
 
-<table width="100%">
+<table>
 <tr>
-<td align="center" width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=SonuR12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" />
+<td>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=SonuR12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" />
 </td>
-<td align="center" width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonuR12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=8" />
+<td>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonuR12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=6" />
 </td>
 </tr>
 <tr>
-<td align="center" colspan="2">
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=SonuR12&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1&sideLabels=c9d1d9&dates=c9d1d9" />
+<td colspan="2" align="center">
+<img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=SonuR12&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1&sideLabels=c9d1d9&dates=c9d1d9" />
 </td>
 </tr>
 </table>
