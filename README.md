@@ -1,136 +1,111 @@
-# 👋 Hi, I'm Sonu Rai (@SonuR12)
+<div align="center">
 
-**Full Stack Developer | Computer Science Engineer | Product-focused Builder**
+# Sonu Rai
+### Full Stack Engineer · Product Builder · CS Undergrad @ GGSIPU
 
-I build **production-grade web applications** with clean UI, scalable backends, and reliable deployments.  
-I enjoy owning the **entire product lifecycle** — from idea → development → deployment → real users.
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-sonu-rai.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonu-rai-r12/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonukumar9905757@gmail.com)
 
----
-
-## 💼 About Me
-
-- 🎓 **B.Tech – Computer Science Engineering** (GGSIPU)
-- 💻 Full-stack developer (Frontend → Backend → DevOps → Hosting)
-- 🚀 Builded **FutureOfGadgets.in**
-- ⚙️ Strong focus on **performance, security, SEO & scalability**
-- ☁️ Deployment experience: **Vercel, Hostinger KVM, PM2, NGINX, Cloudflare**
-- 🌱 Exploring **AI integrations, Web3 & Microservices**
-- 🎨 Passionate about **UI/UX, accessibility & clean architecture**
+</div>
 
 ---
 
-## 🧠 Tech Stack
-
-### 🚀 Frontend
-- JavaScript / TypeScript  
-- React, **Next.js (App Router)**  
-- Tailwind CSS, **ShadCN UI**  
-- Flutter (Basics)
-
-### 🛠 Backend & Databases
-- Node.js, Express.js  
-- MongoDB, MySQL  
-- **Prisma ORM**  
-- REST APIs, Authentication (JWT, Sessions)
-
-### ☁️ DevOps & Infrastructure
-- Vercel (CI/CD)  
-- Linux VPS (Hostinger KVM)  
-- PM2, NGINX  
-- Docker (Basics)  
-- AWS (Fundamentals)
+I build **production-grade web applications** end-to-end — from architecture and UI to deployment and real traffic.  
+Not just side projects. Real products. Real users. Real infrastructure.
 
 ---
 
-## 🔥 Featured Projects
+## Featured Work
 
-### 🛍️ FutureOfGadgets.in
-**Production-ready eCommerce platform** with admin panel and VPS deployment  
-**Tech:** Next.js, MongoDB, PM2, NGINX, Cloudflare  
-**Key Highlights:**
-- Admin dashboard with full product control
-- SEO optimization & performance tuning
-- Secure deployment on Linux VPS
-- Real users & live traffic
+### 💰 AI Finance Tracker — [Live](https://financetracked.vercel.app) · [Code](https://github.com/SonuR12/Finance-Tracker)
+> Full-stack personal finance platform with AI-powered spending insights
 
-🔗 https://futureofgadgets.in
+- AI-generated financial analysis via OpenAI API
+- Interactive charts (Recharts), real-time stat cards, budget tracking
+- NextAuth v5 with OTP email verification (Nodemailer)
+- 15-language i18n, custom theme engine, fully responsive
+- **Stack:** Next.js 16 · MongoDB · Prisma · Tailwind CSS v4 · Framer Motion · Three.js
 
 ---
 
-### 🧠 AI Mentor Assistant
-**AI-powered personalized mentoring platform**  
-**Tech:** Next.js, MongoDB, Gemini API, ShadCN UI  
-**Key Highlights:**
-- Context-aware AI guidance
-- Clean, accessible UI
-- Scalable backend architecture
+### 🛍️ FutureOfGadgets.in — [Live](https://futureofgadgets.in) · [Code](https://github.com/SonuR12/futureofgadgets.in)
+> Production eCommerce platform — live on VPS with real users
+
+- Full admin dashboard with product, order & inventory control
+- SEO-optimized with Core Web Vitals tuning
+- Deployed on Linux VPS: PM2 + NGINX + Cloudflare
+- **Stack:** Next.js · MongoDB · NGINX · PM2 · Cloudflare
 
 ---
 
-### 🛍️ Maharani E-Commerce
-Secure eCommerce solution with full admin control  
-**Highlights:**
-- Cart & checkout flow
-- Authentication & role-based access
-- Admin management panel
+### 🧠 Mentor Mind — [Code](https://github.com/SonuR12/mentor-mind)
+> AI-powered career mentorship platform
+
+- Personalized roadmaps via Gemini API based on user goals
+- Context-aware guidance with clean, accessible UI
+- **Stack:** Next.js · MongoDB · Gemini API · ShadCN UI
 
 ---
 
-### 📊 Dashboard Pro
-Admin dashboard with charts & API integrations  
-**Highlights:**
-- Secure authentication
-- Analytics & data visualization
-- CRUD operations with clean UI
+### 👑 Maharani E-Commerce — [Code](https://github.com/SonuR12/Maharani)
+> Full-featured eCommerce with payments and admin panel
+
+- Stripe & PayPal integration, cart, checkout, order history
+- Role-based auth, image uploads, email notifications
+- **Stack:** Next.js · Tailwind CSS · ShadCN UI · Stripe · PayPal
 
 ---
 
-### 💬 Chatify
-Real-time chat application  
-**Tech:** WebSockets, JWT  
-**Highlights:**
-- Live messaging
-- Secure auth
-- Scalable real-time architecture
+### 🌐 TechSphere — [Code](https://github.com/SonuR12/tech-sphere)
+> Web3 & AI discovery portal with 3D experiences
+
+- Real-time AI insights via Gemini, immersive 3D UI
+- **Stack:** Next.js · Three.js · Gemini API
 
 ---
 
-## 🧩 What I’m Good At (Beyond Code)
+### 🎨 Artistly — [Code](https://github.com/SonuR12/Eventful_Assign)
+> Marketplace connecting event planners with performers
 
-- 🧠 **System thinking & clean architecture**
-- ⚡ Performance optimization (Core Web Vitals)
-- 🔐 Security-first mindset
-- 🛠 Debugging production issues
-- 📦 Shipping complete, usable products
-- 📈 SEO & real-world deployment challenges
+- Browse & book singers, dancers, DJs, speakers
+- Artist onboarding & booking management
+- **Stack:** Next.js · TypeScript · Tailwind CSS
 
 ---
 
-## 🎯 Current Focus
+## Tech Stack
 
-- Building **AI-powered real-world products**
-- Strengthening **DevOps & CI/CD pipelines**
-- Learning **system design & scalable backend patterns**
-- Preparing for **high-impact software engineering roles**
-
----
-
-## 🤝 Open To
-
-- Full-time / Internship opportunities
-- Freelance & startup collaborations
-- Open-source contributions
-- Product-focused engineering roles
+```
+Frontend    →  TypeScript · React · Next.js (App Router) · Tailwind CSS · ShadCN UI · Framer Motion
+Backend     →  Node.js · Express · REST APIs · JWT · NextAuth v5
+Database    →  MongoDB · MySQL · Prisma ORM
+AI / 3D     →  OpenAI API · Gemini API · Three.js · React Three Fiber
+DevOps      →  Vercel · Linux VPS · PM2 · NGINX · Cloudflare · Docker (basics) · AWS (fundamentals)
+```
 
 ---
 
-## 📫 Connect With Me
+## What I Bring
 
-- 📧 Email: **sonukumar9905757@gmail.com**
-- 💼 LinkedIn: https://www.linkedin.com/in/sonu-rai-r12/
-- 💻 GitHub: https://github.com/SonuR12
-- 🌐 Portfolio: https://portfolio-sonu-rai.vercel.app
+- **Full ownership** — I take a product from idea to deployed, monitored, and maintained
+- **Production mindset** — security, SEO, Core Web Vitals, error handling, not just "it works locally"
+- **Infrastructure experience** — VPS setup, reverse proxy, process management, CDN — not just Vercel deploys
+- **AI integration** — shipped real products using OpenAI and Gemini APIs, not just tutorials
 
 ---
 
-> ✨ *Build fast. Learn faster. Ship with confidence.* 🚀
+## Currently
+
+- Building AI-powered products with real-world utility
+- Deepening system design & scalable backend patterns
+- Strengthening CI/CD and DevOps workflows
+- **Open to:** Full-time · Internship · Freelance · Startup roles
+
+---
+
+<div align="center">
+
+*Build fast. Learn faster. Ship with confidence.*
+
+</div>
