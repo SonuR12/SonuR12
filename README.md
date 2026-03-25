@@ -85,7 +85,8 @@ public class SonuRai extends Developer {
 <td width="50%" valign="top">
 
 ### 🛍️ FutureOfGadgets.in
-**[🌐 Live](https://futureofgadgets.in) · [Code](https://github.com/SonuR12/futureofgadgets.in)**
+**[🌐 Live Demo](https://futureofgadgets.in)** 
+**[Code](https://github.com/SonuR12/futureofgadgets.in)**
 
 > Production eCommerce — real users, real traffic
 
