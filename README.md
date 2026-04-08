@@ -187,10 +187,7 @@ Event × Performer marketplace.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SonuR12&show_icons=true&theme=tokyo-night&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c7d2fe&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonuR12&layout=compact&theme=tokyo-night&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c7d2fe" width="49%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SonuR12&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=6366f1&point=c7d2fe&area=true&area_color=6366f1" width="100%" />
+<img height="155" src="https://github-readme-streak-stats.herokuapp.com?user=SonuR12&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1&sideLabels=c9d1d9&dates=c9d1d9" />
 
 </div>
 
