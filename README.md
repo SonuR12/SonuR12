@@ -83,7 +83,7 @@ public class SonuRai extends Developer {
 <td width="50%" valign="top">
 
 ### 💰 AI Finance Tracker
-**[Live](https://financetracked.vercel.app)** · [Code](https://github.com/SonuR12/Finance-Tracker)
+**[Live](https://financetracked.vercel.app)** 
 
 AI-powered personal finance platform with real-time insights.
 
@@ -116,7 +116,7 @@ Production eCommerce with real users and real traffic.
 <td width="50%" valign="top">
 
 ### 🧠 Mentor Mind
-[Code](https://github.com/SonuR12/mentor-mind)
+**[Live](https://mentor-mind-app.vercel.app)** · [Code](https://github.com/SonuR12/mentor-mind)
 
 AI career mentorship platform powered by Gemini.
 
@@ -130,7 +130,7 @@ AI career mentorship platform powered by Gemini.
 <td width="50%" valign="top">
 
 ### 👑 Maharani E-Commerce
-[Code](https://github.com/SonuR12/Maharani)
+**[Live](https://maharani-blush.vercel.app)** · [Code](https://github.com/SonuR12/Maharani)
 
 Full-featured store with integrated payments.
 
@@ -159,7 +159,7 @@ Web3 & AI discovery portal with immersive UI.
 <td width="50%" valign="top">
 
 ### 🎨 Artistly
-[Code](https://github.com/SonuR12/Eventful_Assign)
+**[Live](https://eventful-assign.vercel.app)** · [Code](https://github.com/SonuR12/Eventful_Assign)
 
 Event × Performer marketplace.
 
