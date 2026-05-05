@@ -183,16 +183,6 @@ Event × Performer marketplace.
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="155" src="https://github-readme-streak-stats.herokuapp.com?user=SonuR12&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1&sideLabels=c9d1d9&dates=c9d1d9" />
-
-</div>
-
----
-
 <div align="center">
 
 **Let's build something great together**
