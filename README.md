@@ -102,7 +102,7 @@ Fast & clean IPU result checker — built for real students.
 - Instant result lookup by enrollment number
 - Semester-wise marks & SGPA breakdown
 - Rank list — see where you stand among all students
-- Lightweight, zero login required
+- Lightweight & easy to use
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
