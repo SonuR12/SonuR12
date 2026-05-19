@@ -82,6 +82,20 @@ public class SonuRai extends Developer {
 <tr>
 <td width="50%" valign="top">
 
+### 🎓 GGSIPU Result ⭐
+[Code](https://github.com/SonuR12/GGSIPU-Result)
+
+Fast & clean IPU result checker — built for real students.
+
+- Instant result lookup by enrollment number
+- Semester-wise marks & SGPA breakdown
+- Lightweight, no login required
+
+`Next.js` `TypeScript` `Tailwind CSS`
+
+</td>
+<td width="50%" valign="top">
+
 ### 💰 AI Finance Tracker
 **[Live](https://financetracked.vercel.app)** 
 
@@ -96,6 +110,8 @@ AI-powered personal finance platform with real-time insights.
 `Next.js 16` `MongoDB` `Prisma` `Tailwind v4` `OpenAI`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🛍️ FutureOfGadgets.in
@@ -143,19 +159,6 @@ Full-featured store with integrated payments.
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 🌐 TechSphere
-[Code](https://github.com/SonuR12/tech-sphere)
-
-Web3 & AI discovery portal with immersive UI.
-
-- Three.js 3D interactive experiences
-- Real-time Gemini AI insights
-
-`Next.js` `Three.js` `Gemini API`
-
-</td>
 <td width="50%" valign="top">
 
 ### 🎨 Artistly
