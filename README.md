@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6366f1&height=200&section=header&text=Sonu%20Rai&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%E2%80%A2%20Java%20Developer%20%E2%80%A2%20Product%20Builder&descAlignY=58&descSize=15&descColor=e0e7ff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=180&section=header&text=Sonu%20Rai&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Java%20Developer%20%7C%20Full%20Stack%20Engineer%20%7C%20Product%20Builder&descAlignY=56&descSize=16&descColor=c7d2fe" width="100%"/>
 </div>
 
 <br/>
@@ -26,7 +26,7 @@ public class SonuRai extends Developer {
     final String[] core    = { "Java", "DSA", "OOP", "System Design" };
     final String[] web     = { "Next.js", "React", "Node.js", "MongoDB" };
     final String[] ai      = { "OpenAI API", "Gemini API", "Groq" };
-    final String[] devops  = { "Linux VPS", "NGINX", "PM2", "Vercel" };
+    final String[] devops  = { "Vercel","Linux VPS", "NGINX", "PM2" };
     final String[] openTo  = { "Full-time", "Internship", "Freelance" };
 
     @Override
@@ -84,31 +84,6 @@ public class SonuRai extends Developer {
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
-</div>
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SonuR12&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0A66C2&icon_color=6366f1&text_color=c9d1d9" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonuR12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0A66C2&text_color=c9d1d9" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SonuR12&theme=tokyonight&hide_border=true&background=0d1117&ring=0A66C2&fire=6366f1&currStreakLabel=0A66C2&sideLabels=0A66C2&dates=c9d1d9" width="60%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SonuR12&theme=tokyonight" width="80%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=SonuR12&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="80%"/>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SonuR12/SonuR12/output/github-contribution-grid-snake-dark.svg" width="80%"/>
 </div>
 
 ---
@@ -242,6 +217,6 @@ Event × Performer marketplace.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6366f1&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer" width="100%"/>
 
 </div>
