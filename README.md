@@ -99,7 +99,7 @@ public class SonuRai extends Developer {
 
 Fast & clean IPU result checker — built for real students.
 
-- Instant result lookup by enrollment number
+- Instant result lookup by enrollment number & password
 - Semester-wise marks & SGPA breakdown
 - Rank list — see where you stand among all students
 - Lightweight & easy to use
