@@ -1,22 +1,18 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=200&section=header&text=Sonu%20Rai&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%E2%80%A2%20Java%20Developer%20%E2%80%A2%20Product%20Builder&descAlignY=58&descSize=15&descColor=e0e7ff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6366f1&height=200&section=header&text=Sonu%20Rai&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%E2%80%A2%20Java%20Developer%20%E2%80%A2%20Product%20Builder&descAlignY=58&descSize=15&descColor=e0e7ff" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://sonurai.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/sonu-rai-r12/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:sonurai7011@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/SonuR12"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://sonurai.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sonu-rai-r12/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sonurai7011@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/SonuR12" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SonuR12&style=flat-square&color=6366f1&label=Profile+Views"/>
-  <img src="https://img.shields.io/github/followers/SonuR12?style=flat-square&color=6366f1&label=Followers"/>
-</div>
 
 ---
 
@@ -95,12 +91,24 @@ public class SonuRai extends Developer {
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SonuR12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonuR12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SonuR12&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0A66C2&icon_color=6366f1&text_color=c9d1d9" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonuR12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0A66C2&text_color=c9d1d9" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SonuR12&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" width="60%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SonuR12&theme=tokyonight&hide_border=true&background=0d1117&ring=0A66C2&fire=6366f1&currStreakLabel=0A66C2&sideLabels=0A66C2&dates=c9d1d9" width="60%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SonuR12&theme=tokyonight" width="80%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=SonuR12&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="80%"/>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SonuR12/SonuR12/output/github-contribution-grid-snake-dark.svg" width="80%"/>
 </div>
 
 ---
@@ -112,7 +120,7 @@ public class SonuRai extends Developer {
 <td width="50%" valign="top">
 
 ### 🎓 GGSIPU Result &nbsp;⭐
-[`Code`](https://github.com/SonuR12/GGSIPU-Result)
+<a href="https://github.com/SonuR12/GGSIPU-Result" target="_blank">`Code`</a>
 
 Fast & clean IPU result checker — built for real students.
 
@@ -128,7 +136,7 @@ Fast & clean IPU result checker — built for real students.
 <td width="50%" valign="top">
 
 ### 💰 AI Finance Tracker
-[`Live`](https://financetracked.vercel.app)
+<a href="https://financetracked.vercel.app" target="_blank">`Live`</a>
 
 AI-powered personal finance platform with real-time insights.
 
@@ -146,7 +154,7 @@ AI-powered personal finance platform with real-time insights.
 <td width="50%" valign="top">
 
 ### 🛍️ FutureOfGadgets.in
-[`Live`](https://futureofgadgets.in) &nbsp;·&nbsp; [`Code`](https://github.com/SonuR12/futureofgadgets.in)
+<a href="https://futureofgadgets.in" target="_blank">`Live`</a> &nbsp;·&nbsp; <a href="https://github.com/SonuR12/futureofgadgets.in" target="_blank">`Code`</a>
 
 Production eCommerce — real users, real traffic.
 
@@ -162,7 +170,7 @@ Production eCommerce — real users, real traffic.
 <td width="50%" valign="top">
 
 ### 🧠 Mentor Mind
-[`Live`](https://mentor-mind-app.vercel.app) &nbsp;·&nbsp; [`Code`](https://github.com/SonuR12/mentor-mind)
+<a href="https://mentor-mind-app.vercel.app" target="_blank">`Live`</a> &nbsp;·&nbsp; <a href="https://github.com/SonuR12/mentor-mind" target="_blank">`Code`</a>
 
 AI career mentorship platform powered by Gemini.
 
@@ -180,7 +188,7 @@ AI career mentorship platform powered by Gemini.
 <td width="50%" valign="top">
 
 ### 👑 Maharani E-Commerce
-[`Live`](https://maharani-blush.vercel.app) &nbsp;·&nbsp; [`Code`](https://github.com/SonuR12/Maharani)
+<a href="https://maharani-blush.vercel.app" target="_blank">`Live`</a> &nbsp;·&nbsp; <a href="https://github.com/SonuR12/Maharani" target="_blank">`Code`</a>
 
 Full-featured store with integrated payments.
 
@@ -196,7 +204,7 @@ Full-featured store with integrated payments.
 <td width="50%" valign="top">
 
 ### 🎨 Artistly
-[`Live`](https://eventful-assign.vercel.app) &nbsp;·&nbsp; [`Code`](https://github.com/SonuR12/Eventful_Assign)
+<a href="https://eventful-assign.vercel.app" target="_blank">`Live`</a> &nbsp;·&nbsp; <a href="https://github.com/SonuR12/Eventful_Assign" target="_blank">`Code`</a>
 
 Event × Performer marketplace.
 
@@ -228,12 +236,12 @@ Event × Performer marketplace.
 
 ### Let's build something great together
 
-<a href="https://sonurai.vercel.app"><img src="https://img.shields.io/badge/View%20My%20Work-6366f1?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/sonu-rai-r12/"><img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:sonurai7011@gmail.com"><img src="https://img.shields.io/badge/Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://sonurai.vercel.app" target="_blank"><img src="https://img.shields.io/badge/View%20My%20Work-6366f1?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sonu-rai-r12/" target="_blank"><img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:sonurai7011@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6366f1&height=120&section=footer" width="100%"/>
 
 </div>
