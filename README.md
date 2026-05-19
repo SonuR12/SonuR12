@@ -95,16 +95,18 @@ public class SonuRai extends Developer {
 <td width="50%" valign="top">
 
 ### 🎓 GGSIPU Result &nbsp;⭐
-<a href="https://github.com/SonuR12/GGSIPU-Result" target="_blank">`Code`</a>
+<a href="https://ipuresult.vercel.app" target="_blank">`Live`</a>
 
 Fast & clean IPU result checker — built for real students.
 
 - Instant result lookup by enrollment number
 - Semester-wise marks & SGPA breakdown
+- Rank list — see where you stand among all students
 - Lightweight, zero login required
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 </td>
@@ -139,6 +141,7 @@ Production eCommerce — real users, real traffic.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=3395FF)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
 
 </td>
@@ -214,6 +217,10 @@ Event × Performer marketplace.
 <a href="https://sonurai.vercel.app" target="_blank"><img src="https://img.shields.io/badge/View%20My%20Work-6366f1?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/sonu-rai-r12/" target="_blank"><img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:sonurai7011@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=SonuR12&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=stars,prs,issues,contribs&hide_border=true&bg_color=0d1117&title_color=0A66C2&text_color=c9d1d9&hide_title=false&show_icons=false" />
 
 <br/>
 
