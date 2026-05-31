@@ -220,11 +220,7 @@ Event × Performer marketplace.
 
 <br/>
 
-
-## GitHub Contributions
-
-<img src="https://github-contributor-stats.vercel.app/api?username=SonuR12&limit=5&theme=transparent&combine_all_yearly_contributions=true" />
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SonuR12&theme=transparent&hide_border=true" />
 
 <br/>
 
